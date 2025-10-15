@@ -1,4 +1,4 @@
-# 🧩 Proyecto 1: Pruebas de Funcionalidad de Inicio de Sesión  
+# 🧩 Proyecto 1: Pruebas Funcionales  
 
 ## 🔍 Descripción General  
 Proyecto de **pruebas manuales** enfocado en verificar el proceso de inicio de sesión de una aplicación web.  
